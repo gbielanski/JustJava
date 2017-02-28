@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="http://schemas.android.com/tools">
+    <string name="app_name">Just Java</string>
+    <string name="Toast_msg_less">Ilość kaw nie może być mniejsza niż 1</string>
+    <string name="chocolate">Czekolada</string>
+    <string name="name">Nazwisko</string>
+    <string name="order">Zamówienie</string>
+    <string name="order_summary_name">Nazwisko: <xliff:g id="name" example="Greg">%s</xliff:g></string>
+    <string name="order_summary_whipped_cream">\nDodaj bitą śmietanę: <xliff:g id="addWhippedCream" example="true">%b</xliff:g></string>
+    <string name="order_summary_chocolate">\nDodaj czekoladę:  <xliff:g id="addChocolate" example="true">%b</xliff:g></string>
+    <string name="order_summary_quantity">\nIlość: <xliff:g id="quantity" example="true">%d</xliff:g></string>
+    <string name="order_summary_price">\nSuma: $<xliff:g id="quantity" example="2">%d</xliff:g></string>
+    <string name="thank_you">\nDziękuję!</string>
+    <string name="order_summary_email_subjec">\"JustJava zamówienie dla \"</string>
+    <string name="quantity">Ilość</string>
+    <string name="toppings">Polewy</string>
+    <string name="whipped_cream">Bita śmietana</string>
+    <string name="toast_msg_greater">Ilość kaw nie może być większa niż 1</string>
+</resources>
